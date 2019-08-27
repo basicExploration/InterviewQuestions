@@ -1,0 +1,6 @@
+.text
+go.mod
+go.sum
+node_modules
+.DS_Store
+.idea
